@@ -1,7 +1,7 @@
 <?
 $srcfolder='iPhone/';
 $desfolder='compressed/';
-$ext=array('jpg');//Ö§³Öpng,jpg,gif
+$ext=array('jpg');//æ”¯æŒpng,jpg,gif
 
 require 'PHP_JPEG_Metadata_Toolkit_1.12/EXIF.php';
 require 'FileUploader.php';
